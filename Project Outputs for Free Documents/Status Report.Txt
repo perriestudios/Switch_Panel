@@ -1,0 +1,25 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:41:04 On 23-12-2020
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Panel_3.PcbDoc]
+   Generated File[Panel_3.GTO]
+   Generated File[Panel_3.GTP]
+   Generated File[Panel_3.GTS]
+   Generated File[Panel_3.GTL]
+   Generated File[Panel_3.GBL]
+   Generated File[Panel_3.GBS]
+   Generated File[Panel_3.GBP]
+   Generated File[Panel_3.GBO]
+   Generated File[Panel_3.GKO]
+   Generated File[Panel_3.RUL]
+   Generated File[Panel_3.EXTREP]
+   Generated File[Panel_3.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 15:41:40 On 23-12-2020
